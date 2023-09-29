@@ -1,11 +1,6 @@
 # datacleaningSQL
 
 
-	28/9/23
-		
-	------------------------------------------------------------------------------
-
-	
 	Project Objectives:
 
 		- Review and learn SQL concepts.
